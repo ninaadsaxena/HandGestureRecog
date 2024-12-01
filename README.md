@@ -71,10 +71,6 @@ pip install opencv-python mediapipe numpy
 - **Thumbs Up**: Displays "Right Hand: Thumbs Up" on the screen.
 - **Peace Sign**: Displays "Left Hand: Peace" on the screen.
 
-## Demo
-
-![Hand Gesture Recognition Demo](path/to/demo-image-or-gif)
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request. For significant changes, please open an issue first to discuss your ideas.
@@ -90,8 +86,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-Developed by **Ninaad Saxena**. Feel free to connect on [LinkedIn](https://linkedin.com/in/your-linkedin-profile).
+Developed by **Ninaad Saxena**. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ninaadsaxena/).
 
 ---
-
-Make sure to replace `yourusername` with your GitHub username and `path/to/demo-image-or-gif` with the actual path or URL for the demo image or GIF. Let me know if you need any further adjustments!
